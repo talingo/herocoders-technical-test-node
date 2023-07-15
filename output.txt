@@ -1,0 +1,35 @@
+[
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+    "id": "10130",
+    "name": "Backend",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "issueCount": 65
+  },
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10128",
+    "id": "10128",
+    "name": "Synchronization",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "issueCount": 12
+  },
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+    "id": "10131",
+    "name": "Templates",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "issueCount": 25
+  }
+]
